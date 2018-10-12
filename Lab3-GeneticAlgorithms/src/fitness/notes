@@ -1,7 +1,8 @@
 part 2
 add code to report the best individual (in GA) 
 Write and test average fitness
-rewrite code to account for n point crossover 
+
+
 Use the following values to start, then, if you wish, try to find better yourself:
 
 Population size: 10, 100, 1000, 10000
